@@ -1,3 +1,3 @@
 # AtomicMaker
 
-- Custom library which help making class properties have Atomic like attribute for multi-threading
+- A Custom library which helps to make class properties have Atomic like attribute for multi-threading
