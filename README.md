@@ -1,6 +1,6 @@
 # AtomicMaker
 
-- A Custom library which helps to make class properties have Atomic like attribute for multi-threading
+- A Custom library which helps to make class properties have Objective-C's Atomic like attribute for multi-threading
 
 ```swift
 final class Atomic<T> {
